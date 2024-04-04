@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "B9r1ZMLpZUGHWAm7cJdoR7lUVOk7JoiSwbUUDD9LHPE=",
+  "Source": "SMAPI",
+  "BasePath": "_content/SMAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
